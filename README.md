@@ -1,5 +1,5 @@
 # CMSC320 Final Project/Tutorial: Movement of an Aldabra Giant Tortoise
-
+By Erin Hopper
 
 <h3>Project Summary and Data</h3>
 
